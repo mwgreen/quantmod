@@ -28,7 +28,7 @@ function(Symbols,src='yahoo',what, ...) {
   cache.name <- "_yahoo_curl_session_"
   ses <- get0(cache.name, .quantmodEnv) # get cached session
   
- //deleted to remove dependency on curl
+ #deleted to remove dependency on curl
 
   return(ses)
 }
