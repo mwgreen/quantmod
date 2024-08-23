@@ -247,8 +247,6 @@ export(
     yahooQF,
     yahooQuote.EOD,
 
-    getOptionChain,
-
     attachSymbols,
     flushSymbols,
 
